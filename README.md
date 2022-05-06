@@ -6,3 +6,5 @@ Possible implementations:
 
 * C
 * Android/Kotlin via JNI
+
+LICENSE: BSD-3
