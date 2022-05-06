@@ -2,7 +2,7 @@
 Spectrogram based on kissfft
 https://github.com/mborgerding/kissfft
 
-The result should be a double[][].
+The result for an input .wav should be a double[][].
 
 Possible implementations:
 
